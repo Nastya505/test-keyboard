@@ -1,0 +1,588 @@
+{
+  "groups": [
+    {
+      "group": "ИСИП-9-21",
+      "prevWeek": {
+        "from": "18.03.2024",
+        "to": "23.03.2024",
+        "days": [
+          {
+            "day": "Понедельник",
+            "date": "18 марта",
+            "classes": [
+              {
+                "lesson": 1,
+                "time": {
+                  "start": "08:00",
+                  "end": "09:35"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "distance",
+                    "room": null,
+                    "extra": null
+                  }
+                ]
+              },
+              {
+                "lesson": 2,
+                "time": {
+                  "start": "09:45",
+                  "end": "11:20"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "distance",
+                    "room": null,
+                    "extra": null
+                  }
+                ]
+              },
+              {
+                "lesson": 3,
+                "time": {
+                  "start": "11:30",
+                  "end": "13:05"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "distance",
+                    "room": null,
+                    "extra": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Вторник",
+            "date": "19 марта",
+            "classes": [
+              {
+                "lesson": 1,
+                "time": {
+                  "start": "08:00",
+                  "end": "09:35"
+                },
+                "course": "Иностр язык",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  },
+                  {
+                    "place": "college",
+                    "room": "208",
+                    "extra": null
+                  }
+                ]
+              },
+              {
+                "lesson": 2,
+                "time": {
+                  "start": "09:45",
+                  "end": "11:20"
+                },
+                "course": "Иностр язык",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  },
+                  {
+                    "place": "college",
+                    "room": "208",
+                    "extra": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Среда",
+            "date": "20 марта",
+            "classes": [
+              {
+                "lesson": 3,
+                "time": {
+                  "start": "11:30",
+                  "end": "13:05"
+                },
+                "course": "Тестирование ИС",
+                "rooms": [
+                  {
+                    "place": "distance",
+                    "room": null,
+                    "extra": null
+                  }
+                ]
+              },
+              {
+                "lesson": 4,
+                "time": {
+                  "start": "13:45",
+                  "end": "15:20"
+                },
+                "course": "Тестирование ИС",
+                "rooms": [
+                  {
+                    "place": "distance",
+                    "room": null,
+                    "extra": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Четверг",
+            "date": "21 марта",
+            "classes": [
+              {
+                "lesson": 2,
+                "time": {
+                  "start": "09:45",
+                  "end": "11:20"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Пятница",
+            "date": "22 марта",
+            "classes": [
+              {
+                "lesson": 3,
+                "time": {
+                  "start": "11:30",
+                  "end": "13:05"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "distance",
+                    "room": null,
+                    "extra": null
+                  }
+                ]
+              },
+              {
+                "lesson": 4,
+                "time": {
+                  "start": "13:45",
+                  "end": "15:20"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "distance",
+                    "room": null,
+                    "extra": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Суббота",
+            "date": "23 марта",
+            "classes": [
+              {
+                "lesson": 3,
+                "time": {
+                  "start": "11:30",
+                  "end": "13:05"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  },
+                  {
+                    "place": "college",
+                    "room": "208",
+                    "extra": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "currentWeek": {
+        "from": "25.03.2024",
+        "to": "30.03.2024",
+        "days": [
+          {
+            "day": "Понедельник",
+            "date": "25 марта",
+            "classes": [
+              {
+                "lesson": 3,
+                "time": {
+                  "start": "11:30",
+                  "end": "13:05"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "distance",
+                    "room": null,
+                    "extra": null
+                  }
+                ]
+              },
+              {
+                "lesson": 4,
+                "time": {
+                  "start": "13:45",
+                  "end": "15:20"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  },
+                  {
+                    "place": "college",
+                    "room": "208",
+                    "extra": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Вторник",
+            "date": "26 марта",
+            "classes": [
+              {
+                "lesson": 1,
+                "time": {
+                  "start": "08:00",
+                  "end": "09:35"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  },
+                  {
+                    "place": "college",
+                    "room": "208",
+                    "extra": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Среда",
+            "date": "27 марта",
+            "classes": [
+              {
+                "lesson": 3,
+                "time": {
+                  "start": "11:30",
+                  "end": "13:05"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "distance",
+                    "room": null,
+                    "extra": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Четверг",
+            "date": "28 марта",
+            "classes": [
+              {
+                "lesson": 2,
+                "time": {
+                  "start": "09:45",
+                  "end": "11:20"
+                },
+                "course": "Тестирование ИС",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Пятница",
+            "date": "29 марта",
+            "classes": [
+              {
+                "lesson": 3,
+                "time": {
+                  "start": "11:30",
+                  "end": "13:05"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  },
+                  {
+                    "place": "college",
+                    "room": "208",
+                    "extra": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Суббота",
+            "date": "30 марта",
+            "classes": [
+              {
+                "lesson": 3,
+                "time": {
+                  "start": "11:30",
+                  "end": "13:05"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "distance",
+                    "room": null,
+                    "extra": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "nextWeek": {
+        "from": "01.04.2024",
+        "to": "06.04.2024",
+        "days": [
+          {
+            "day": "Понедельник",
+            "date": "1 апреля",
+            "classes": [
+              {
+                "lesson": 3,
+                "time": {
+                  "start": "11:30",
+                  "end": "13:05"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  },
+                  {
+                    "place": "college",
+                    "room": "208",
+                    "extra": null
+                  }
+                ]
+              },
+              {
+                "lesson": 4,
+                "time": {
+                  "start": "13:45",
+                  "end": "15:20"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  }
+                ]
+              },
+              {
+                "lesson": 5,
+                "time": {
+                  "start": "15:30",
+                  "end": "17:05"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Вторник",
+            "date": "2 апреля",
+            "classes": [
+              {
+                "lesson": 1,
+                "time": {
+                  "start": "08:00",
+                  "end": "09:35"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "distance",
+                    "room": null,
+                    "extra": null
+                  }
+                ]
+              },
+              {
+                "lesson": 2,
+                "time": {
+                  "start": "09:45",
+                  "end": "11:20"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Среда",
+            "date": "3 апреля",
+            "classes": [
+              {
+                "lesson": 3,
+                "time": {
+                  "start": "11:30",
+                  "end": "13:05"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  },
+                  {
+                    "place": "college",
+                    "room": "208",
+                    "extra": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Четверг",
+            "date": "4 апреля",
+            "classes": [
+              {
+                "lesson": 2,
+                "time": {
+                  "start": "09:45",
+                  "end": "11:20"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  },
+                  {
+                    "place": "college",
+                    "room": "208",
+                    "extra": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Пятница",
+            "date": "5 апреля",
+            "classes": [
+              {
+                "lesson": 3,
+                "time": {
+                  "start": "11:30",
+                  "end": "13:05"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "distance",
+                    "room": null,
+                    "extra": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "Суббота",
+            "date": "6 апреля",
+            "classes": [
+              {
+                "lesson": 3,
+                "time": {
+                  "start": "11:30",
+                  "end": "13:05"
+                },
+                "course": "Граф. дизайн",
+                "rooms": [
+                  {
+                    "place": "college",
+                    "room": "207",
+                    "extra": "A"
+                  },
+                  {
+                    "place": "college",
+                    "room": "208",
+                    "extra": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+  }
+  ]
+}
