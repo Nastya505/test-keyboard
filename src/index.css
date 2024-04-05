@@ -3,6 +3,8 @@
 html{
     touch-action: manipulation;
     height: 100%;
+      scroll-padding-top: 50px; /* замените 50px на желаемый отступ */
+
 }
 
 * {
